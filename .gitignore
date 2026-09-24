@@ -1,0 +1,20 @@
+# Generated simulation results and local MATLAB files
+/results/
+*.asv
+*.autosave
+*.m~
+*.log
+*.mex*
+*.mlappinstall
+*.prj
+/matlab.prf
+/MATLABDesktop.xml
+/slprj/
+/codegen/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
