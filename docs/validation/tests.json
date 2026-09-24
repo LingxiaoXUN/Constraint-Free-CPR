@@ -1,0 +1,27 @@
+{
+  "core": {
+    "ndof": 258,
+    "maxEnergyGradientError": 5.021724237790677E-8,
+    "maxPulleyTangentError": 1.3287148748327344E-10,
+    "maxInverseError": 9.79407561906189E-16,
+    "failedAttemptRollbackPassed": true
+  },
+  "regression": {
+    "fixtureCount": 15,
+    "maxPlatformPosition_mm": 8.6259146376627779E-8,
+    "maxPlatformRotation_rad": 1.502170389774509E-9,
+    "maxAttachmentError": 0,
+    "maxScaledResidual": 9.6845313713705179E-9
+  },
+  "control": {
+    "passed": true,
+    "maxMotorKinematicError": 1.7347234759768071E-18,
+    "acceptedCommands": 11,
+    "callbackCalls": 5,
+    "atomicRollbackPassed": true,
+    "outputDirectory": "results\\control_test_20260924_201409",
+    "finalResidual": 4.5200202786610472E-9
+  },
+  "matlab": "23.2.0.2409890 (R2023b) Update 3",
+  "timestamp": "2026-09-24 20:14:15"
+}
