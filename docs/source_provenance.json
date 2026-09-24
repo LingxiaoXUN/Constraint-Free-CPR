@@ -1,0 +1,23 @@
+[
+  {
+    "source": "outputs/source_packages/SoRoMechX/+se3/SE3.m",
+    "destination": "+cpr/SE3.m",
+    "source_sha256": "5464701d9f33757d9203752faecb0acf26df21fc90ef892ae183014a14521d35",
+    "changes": "Namespace isolation; inverse evaluator name; corrected stale Jacobian comment; default closed inverse operator. English function documentation and comment cleanup; executable code unchanged.",
+    "distributed_sha256": "6aea89d4feab58601df3837d99bd23bf640507453b27ada07c0f9e39d593cc7d"
+  },
+  {
+    "source": "outputs/source_packages/SoRoMechX/+alg/LinStrainNoCont.m",
+    "destination": "+cpr/LinStrainNoCont.m",
+    "source_sha256": "3638c72a36d15b9a6d96d196e3f1ea4764dc8a97ec477099a4e08b975b3fe85c",
+    "changes": "Namespace isolation; inverse evaluator name; corrected stale Jacobian comment; default closed inverse operator. English function documentation and comment cleanup; executable code unchanged.",
+    "distributed_sha256": "d261c3aa5b17803f787ea93b2ab170860a692f20b2d9fc093f717fd10943b55d"
+  },
+  {
+    "source": "outputs/minor_comments_checks/minor_inverse.m",
+    "destination": "+cpr/inverse_jacobian.m",
+    "source_sha256": "f3ca1c284d82882a3fb3a3bce00b0b366daadf5c699bf92f3540d3880b466723",
+    "changes": "Namespace isolation; inverse evaluator name; corrected stale Jacobian comment; default closed inverse operator. English function documentation and comment cleanup; executable code unchanged.",
+    "distributed_sha256": "249b5d57861092d0f4b5b0d17329f0afaec53561968bd380e5dfa33ed7ba7b8f"
+  }
+]
